@@ -29,3 +29,9 @@ p{
     color: rgb(35, 155, 139);
 
 }
+.portfolio img {
+    opacity: 0.5;
+}
+.portfolio img:hover {
+    opacity: 1.0;
+}
